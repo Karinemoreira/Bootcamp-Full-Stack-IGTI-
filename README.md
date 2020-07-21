@@ -1,4 +1,7 @@
-# Bootcamp Developer Full Stack IGTI
+
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/51829166/87999075-2d492c80-cad0-11ea-9728-69a68ca5b6cf.png">
+
+# Bootcamp Developer Full Stack IGTI 
 Exercícios realizados no Bootcamp Full Stack do Instituto de Gestão e Tecnologia da Informação. 
 
 ## Objetivo
