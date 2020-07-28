@@ -1,6 +1,8 @@
 # CRUD
 Implementação de CRUD (Create, Retrieve, Update e Delete). Aplicação feita no primeiro módulo do Bootcamp Full Stack do IGTI.
 
+![crud simples](https://user-images.githubusercontent.com/51829166/88725362-643bc580-d102-11ea-89e0-9877c7dbaeb3.gif)
+
 
 ## Objetivo
 
