@@ -10,4 +10,4 @@ Nessa aplicação implementamos um Timer utilizando setTimeout e setInterval, fi
 
 ## Executando
 
-
+![timer](https://user-images.githubusercontent.com/51829166/88871946-819a8d80-d1ef-11ea-8239-696eb2db3930.gif)
