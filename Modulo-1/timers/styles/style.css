@@ -1,0 +1,25 @@
+html {
+	background-color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px;
+}
+
+#content {
+	margin-left: 80vmin;
+	width: 20%;
+	border: 4px solid rgb(99, 136, 247);
+	background-color: rgb(152, 169, 218);
+	border-radius: 8px;
+	border-style: dotted;
+}
+
+#timer {
+	padding: 10px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	font: 3em sans-serif;
+}
